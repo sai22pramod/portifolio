@@ -17,7 +17,7 @@ Full-Stack Developer with 4+ years of experience in building scalable, high-perf
 - Developed an enterprise-level e-commerce application with a focus on scalable microservices architecture, enhancing user experience and operational efficiency.<br>
 - Designed microservices using Java and Spring Boot, ensuring modular development, scalability and maintainability across the platform.<br>
 - Built dynamic and responsive user interfaces using ReactJS, enhancing user experience and ensuring seamless interactions across devices.<br>
-- Deployed microservices on AWS using Docker and Kubernetes, achieving high scalability and availability during peak traffic events.<br>
+
 
 **Java Full Stack Developer @ Dell Technologies (_August 2021 - June 2023)**                                                                                                                                
 - Developed a full-stack application for a banking client, enabling a seamless migration to Kafka for 18 teams, empowering users to efficiently manage topics, register schemas, and oversee schema versions.<br>
